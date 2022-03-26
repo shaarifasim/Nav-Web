@@ -1,0 +1,101 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    width: 100%;
+    display: inline-block;
+    box-shadow: 0px 3px 6px lightgray;
+    display: block;
+    background-color: black;
+    height: 55px;
+    
+}
+.logo{
+    float: left;
+    width: 5%;
+    height: inherit;
+    text-align: center;
+    line-height: 50px;
+}
+img{
+    box-shadow: 2px 3px 15px #d18989;
+    width: 65%;
+    height: 5;
+    margin-top: 16%;
+    margin-left: 14%
+}
+.links{
+    /* box-shadow: 3px 2px 39px #d18989; */
+    width: 55%;
+    color: red;
+    display: inline-block;
+}
+.links ul{
+    list-style: none;
+}
+.links ul li{
+    
+    display: inline;
+    padding: 20px 32px 10px 12px;
+    text-align: center;
+}
+.links ul li a{
+    box-shadow: 0px 0px 8px #d18989;
+    color: red;
+    display: inline;
+    padding: 0px 0px 8px 0px;
+    text-align: center;
+}
+
+.search{
+    box-shadow: 2px 3px 15px #d18989;
+    margin-left: 89px;
+    width: 20%;
+    display: inline-block;
+    /* border: 2px solid red; */
+    border-radius: 4px;
+
+}
+.s-b{
+    border-radius: 4px;
+    color: red;
+    margin-left: 23px;
+    border-block-color: black
+}
+.btn{
+    border-radius: 4px;
+    color: red;
+    margin-left: 23px;
+    /* border-block-color: black; */
+    margin-left: 6%;
+    display: inline-block;
+    
+}
+.signup{
+    border-radius: 5px;
+    color: red;
+    margin-left: 23px;
+    border-block-color: red;
+    margin-left: 0%;
+    display: inline-block;
+
+}
+input {
+    /* padding: 6px 12px 6px 12px; */
+    border: 1px solid #665544;
+    color: #1a0303;
+}
+
+.s-b:hover {
+    background-color: #030c2b;
+}
+.signup:active {
+    background-color: #030c2b;
+}
+/* input.text {
+    color: #cccccc;
+}
+input.text:focus {
+    color: #665544;
+} */

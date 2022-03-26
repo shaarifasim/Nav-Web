@@ -1,0 +1,225 @@
+*{
+    color: white;
+    background-color: rgb(47 24 15);
+}
+#main-heading{
+    text-align: center;
+    box-shadow: 4px -7px 10px #966161
+    
+}
+#For-Sale{
+    box-shadow: 4px -7px 10px #966161
+
+}
+.links{
+
+    display: inline-block;
+    width: 100%;
+    display: inline-block;
+    /* box-shadow: 0px 3px 6px lightgrey; */
+    display: block;
+    /* background-color: black; */
+    /* height: 55px;*/
+    
+    
+}
+.links ul li{
+    
+    display: inline;
+    padding: 20px 32px 10px 12px;
+    text-align: center;
+}
+.links ul li a{
+    box-shadow: 0px 0px 8px #966161;
+    color: rgb(241, 222, 222);
+    display: inline;
+    padding: 0px 0px 8px 0px;
+    text-align: center;
+}
+.Main-image {
+    margin-left: 27%;
+}
+.one-para{
+    text-align: center;
+
+}
+ul{
+    display: inline-block;
+    padding: 20px 32px 10px 12px;
+    text-align: center;
+}
+#images{
+    margin-left: 11%;
+    overflow: hidden; 
+    
+}
+h2{
+    text-align: center;
+    font-size: xx-large;
+}
+.Repair{
+    box-shadow: 4px -7px 10px #966161;
+    text-align: center;
+
+}
+.AboutUs{
+    box-shadow: 4px -7px 10px #966161;
+    text-align: center;
+}
+
+
+
+#form{
+    color: black;
+    background-color: #fff;
+    border-radius: 2%;
+    padding-left: 10%;
+    padding-right: 15%;
+    margin-left: 18%;
+}
+.Mob-N{
+    background-color: #fff;
+    padding-right: 50%;
+    border-radius: 5px;
+    height: 30px;
+    
+}
+.FN{
+    background:#fff;
+    border-radius: 7px;
+    height: 30px;
+
+
+}
+.SN{
+    background-color: #fff;
+    border-radius: 7px;
+    height: 30px;
+
+}
+.pass{
+    background-color: #fff; 
+    border-radius: 7px;
+    height: 30px;
+    padding-right: 176px;
+
+}
+.date{
+    color: black;
+    background-color: #fff;
+}
+#Dob{
+    color: black;
+    background-color: #fff;
+    border-radius: 7px;
+    padding-right: 200px;
+    height: 30px;
+}
+.gender{
+    color: black;
+    background-color: #fff;
+}
+.female{
+    color: black;
+    background-color: #fff;
+    font-size: medium;
+    padding: 2%;
+    margin: 2%;
+    height: 30px;
+    border-radius: 7px;
+    border: 2px solid black;
+
+}
+.male{
+    color: black;
+    background-color: #fff;
+    font-size: medium;
+    padding: 2%;
+    height: 30px;
+    margin: 2%;
+    border: 2px solid black;
+    border-radius: 7px;
+
+}
+.custom{
+    color: black;
+    background-color: #fff;
+    font-size: medium;
+    padding: 2%;
+    height: 30px;
+    margin: 2%;
+    border: 2px solid black;
+    border-radius: 7px;
+
+}
+.para-L{
+    color: black;
+    font-size: smaller;
+}
+.p-links{
+    font-weight: bolder;
+    color: black;
+    background-color: white;
+    justify-content: center;
+    /* text-align: center; */
+    /* font-size: ; */
+    
+    
+
+}
+.btn{
+    margin-left: -7%; 
+    width: 50%;  
+    background: none;
+    background-color: black;
+    border: none;
+    border-radius: 6px;
+    box-shadow: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    height: 36px;
+    overflow: hidden;
+    padding: 0 32px;
+    text-shadow: none;
+}
+.btn:hover{
+    color: rgb(47 24 15);
+}
+
+.Contactus{
+    box-shadow: 4px -7px 10px #966161;
+    color: black;
+    line-height: 1.1;
+    text-align: center;
+
+    background-color: #fff !important ;
+
+    margin: auto;
+    height: auto;
+    width: 50%;
+    /* padding: 4px; */
+    border: 5px solid white;
+    border-radius: 4%;
+    border-style:initial;
+    padding-right: 5%;
+    margin-top: -30px;
+}
+.Contact-us{
+    background-color: white;
+    text-align: center;
+    color: black;
+    margin-left: 7%;
+
+}
+.Account{
+    color: black;
+    background-color: #fff !important;
+    border-style: initial;
+}
+.paragraph{
+    color: black;
+    background-color: #fff !important;
+    border-style: initial;
+
+}
